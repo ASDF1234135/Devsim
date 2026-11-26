@@ -1,0 +1,5 @@
+.env
+simulator/data/
+__pycache__/
+*.log
+.claude
